@@ -1,0 +1,36 @@
+
+
+body {
+    background-image: url(textura-castanho.webp);
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    border-radius: 5px;
+    
+
+}
+
+div.bloco {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(235, 42, 106);
+    width: 230px;
+    height: 230px;
+}
+
+div#b1 {
+    background-image: url(mod\ trabalho.jpg);
+}
+
+div#b2 {
+    background-image: url(mod\ luz.jpg);
+}
+
+div#b3 {
+    background-image: url(modelo.jpg);
+}
