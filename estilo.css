@@ -4,15 +4,17 @@ body {
     background-image: url(textura-castanho.webp);
 }
 
-footer {
-    background-color: black;
-    color: white;
+main {
     text-align: center;
-    padding: 1px;
-    border-radius: 5px;
-    
-
 }
+
+h1 {
+    background-color: rgba(255, 68, 0, 0.555);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
 
 .bloco {
     display: inline-block;
@@ -23,14 +25,27 @@ footer {
     height: 230px;
 }
 
-div#b1 {
+#b1 {
     background-image: url(mod\ trabalho.jpg);
+    margin: 20px;
 }
 
-div#b2 {
+#b2 {
     background-image: url(mod\ luz.jpg);
+    margin: 20px;
 }
 
-div#b3 {
+#b3 {
     background-image: url(modelo.jpg);
+    margin: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    border-radius: 5px;
+    
+
 }
